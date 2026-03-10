@@ -1,4 +1,4 @@
-#  Maíse Damasceno
+#  Mai Damasceno
 
 Desarrolladora Frontend con experiencia en desarrollo web desde 2020. Trabajo con React y Angular utilizando TypeScript para crear interfaces y funcionalidades de aplicaciones web.
 
