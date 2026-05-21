@@ -1,11 +1,7 @@
 #  Mai Damasceno
 
-Desarrolladora Frontend con experiencia en desarrollo web desde 2020. Trabajo con React y Angular utilizando TypeScript para crear interfaces y funcionalidades de aplicaciones web.
-
-Me interesa la experiencia de usuario y tengo conocimientos de UI que me permiten aportar en el diseño de interfaces cuando es necesario. Disfruto escribir código claro y mantenible, y seguir mejorando mis prácticas de desarrollo.
-
-Valoro el aprendizaje constante y los equipos donde se puede crecer y aportar.
-
-¡Conectemos!
+Desarrolladora Frontend con más de 4 años de experiencia desarrollando aplicaciones web con Angular, React y TypeScript. He trabajado en la evolución de plataformas B2B/B2C, migración y modernización de sistemas legacy, además de diseño e implementación de interfaces enfocadas en experiencia de usuario, escalabilidad y mantenibilidad.
+ 
+Me interesa crear productos intuitivos y escribir código claro, reutilizable y de calidad, colaborando en equipos donde el aprendizaje y la mejora continua forman parte del día a día.
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maise-damasceno)](https://www.linkedin.com/in/maidamasceno)
