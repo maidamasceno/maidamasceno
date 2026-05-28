@@ -1,6 +1,6 @@
 #  Mai Damasceno
 
-Frontend Developer especializada en Angular, React y TypeScript, con más de 4 años de experiencia construyendo y evolucionando productos digitales y plataformas web complejas. He trabajado en el desarrollo de aplicaciones web escalables, la modernización de sistemas legacy, la creación de componentes reutilizables y la integración de APIs REST, con un enfoque en buenas prácticas, mantenibilidad del código y experiencia de usuario.
+Desarrolladora Frontend especializada en Angular, React y TypeScript, con más de 4 años de experiencia construyendo y evolucionando productos digitales y plataformas web complejas. He trabajado en el desarrollo de aplicaciones web escalables, la modernización de sistemas legacy, la creación de componentes reutilizables y la integración de APIs REST, con un enfoque en buenas prácticas, mantenibilidad del código y experiencia de usuario.
  
 A lo largo de mi experiencia he trabajado en productos B2B y B2C, incluyendo sistemas de reservas, e-commerce y plataformas educativas, desarrollando interfaces complejas, formularios dinámicos y funcionalidades basadas en reglas de negocio y flujos reales de usuario.
  
